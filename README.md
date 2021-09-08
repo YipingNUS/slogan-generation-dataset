@@ -1,7 +1,7 @@
 # slogan-generation-dataset
 Slogan Generation Evaluation Datasets used in the following paper:
 
-> Jin, Yiping, et al. "Generating Coherent and Diverse Slogans with Sequence-to-Sequence Transformer. " arXiv preprint [arXiv:2102.05924 (2021)](https://arxiv.org/abs/2102.05924).
+> Jin, Yiping, Akshay Bhatia, Dittaya Wanvarie, and Phu TV Le. "Toward Improving Coherence and Diversity of Slogan Generation" arXiv preprint [arXiv:2102.05924 (2021)](https://arxiv.org/abs/2102.05924).
 
 This repo contains a rule-based filtered validation dataset of 5k `<description, slogan>` pairs and a manually curated test dataset of 1k pairs. The dataset construction procedure is described in the Dataset section of the paper. 
 
@@ -22,7 +22,7 @@ If you use the dataset for your research work, please cite the following manuscr
 
 ```
 @misc{jin2021generating,
-      title={Generating Coherent and Diverse Slogans with Sequence-to-Sequence Transformer}, 
+      title={Toward Improving Coherence and Diversity of Slogan Generation}, 
       author={Yiping Jin and Akshay Bhatia and Dittaya Wanvarie and Phu T. V. Le},
       year={2021},
       eprint={2102.05924},
