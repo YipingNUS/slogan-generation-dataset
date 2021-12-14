@@ -1,7 +1,9 @@
 # slogan-generation-dataset
 Slogan Generation Evaluation Datasets used in the following paper:
 
-> Jin, Yiping, Akshay Bhatia, Dittaya Wanvarie, and Phu TV Le. "Toward Improving Coherence and Diversity of Slogan Generation" arXiv preprint [arXiv:2102.05924 (2021)](https://arxiv.org/abs/2102.05924).
+> Jin, Yiping, Akshay Bhatia, Dittaya Wanvarie, and Phu TV Le. "Toward Improving Coherence and Diversity of Slogan Generation". Accepted to *Natural Language Engineering*. Cambridge University Press.
+
+[Download paper here](https://yipingnus.github.io/files/nle2021.pdf) (as allowed by Cambridge University Press self-archiving policy)
 
 This repo contains a rule-based filtered validation dataset of 5k `<description, slogan>` pairs and a manually curated test dataset of 1k pairs. The dataset construction procedure is described in the Dataset section of the paper. 
 
@@ -21,13 +23,13 @@ lyze the annotation result.
 If you use the dataset for your research work, please cite the following manuscript:
 
 ```
-@misc{jin2021generating,
+@article{jin2021generating,
       title={Toward Improving Coherence and Diversity of Slogan Generation}, 
       author={Yiping Jin and Akshay Bhatia and Dittaya Wanvarie and Phu T. V. Le},
-      year={2021},
-      eprint={2102.05924},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      journal={Natural Language Engineering},
+      pages={1--33},
+      year={In press},
+      note={Cambridge University Press}
 }
 ```
 
